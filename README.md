@@ -6,4 +6,4 @@
 - 모의테스트 이후 코드 리뷰 시간
   : 사용한 자료 구조, 로직 등 풀이 방법 설명
 
-![7월 3주차](https://user-images.githubusercontent.com/80408986/126796555-215ca35b-fab4-45c7-90ce-934237380802.png)
+![7월 4주차](https://user-images.githubusercontent.com/80408986/127006147-8be3aaeb-07d1-4f05-aeaf-13c72691aaa7.png)
