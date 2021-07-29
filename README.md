@@ -7,4 +7,4 @@
   : 사용한 자료 구조, 로직 등 풀이 방법 설명
 - 기술면접 보류
 
-![7월 4주차](https://user-images.githubusercontent.com/80408986/127006147-8be3aaeb-07d1-4f05-aeaf-13c72691aaa7.png)
+![7월 4주차](https://user-images.githubusercontent.com/80408986/127488788-f816d336-2408-4720-84f3-302307778c20.png)
