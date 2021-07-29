@@ -6,5 +6,6 @@
 - 모의테스트 이후 코드 리뷰 시간
   : 사용한 자료 구조, 로직 등 풀이 방법 설명
 - 기술면접 보류
+- 힘을 내요 규동씨..! (~8월 2주차)
 
-![7월 4주차](https://user-images.githubusercontent.com/80408986/127518121-4cf3d73b-7715-464d-96a4-2ffb1ba61b25.png)
+![7월 4주차](https://user-images.githubusercontent.com/80408986/127518410-95e5a4ca-63e7-40aa-8c8a-a61e477edf5f.png)
