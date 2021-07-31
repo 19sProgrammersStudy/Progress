@@ -8,4 +8,6 @@
 - 기술면접 보류
 - 힘을 내요 규동씨..! (~8월 2주차)
 
-![7월 4주차](https://user-images.githubusercontent.com/80408986/127518410-95e5a4ca-63e7-40aa-8c8a-a61e477edf5f.png)
+![7월 4주차](https://user-images.githubusercontent.com/80408986/127729452-61b67762-7aa7-4568-888c-a0409f37227e.png)
+
+![8월 1주차](https://user-images.githubusercontent.com/80408986/127729456-65a6ca91-bac5-482c-af74-0d0ca9beee25.png)
